@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AsalMehradfar
-- 👀 I’m interested in computer vision, machine learning, deep learning, artificial intelligence, and causal inference
-- 🌱 I graduated in electrical engineering and computer science from Sharif University of Technology
-- 📫 You can contact me via asal.mehradfar@yahoo.com
-- ✨ I haven't finished uploading my projects yet...
+- 👀 I’m interested in computer vision, machine learning, artificial intelligence, and causal inference
+- 🌱 I graduated with B.Sc. in Electrical Engineering and Computer Science from Sharif University of Technology
+- ✨ I am now studying Ph.D. in Electrical Engineering at University of Southern California
+- 📫 You can contact me via asal.mehradfar@yahoo.com or my academic mail mehradfa@usc.edu
 
 
 <!---
