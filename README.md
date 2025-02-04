@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsalMehradfar
-- 👀 I’m interested in machine learning, artificial intelligence, and LLMs
+- 👀 I’m interested in AI for Science, Machine Learning, and LLMs
 - 🌱 I graduated with B.Sc. in Electrical Engineering and Computer Science from Sharif University of Technology
 - ✨ I am now studying Ph.D. in Electrical Engineering at University of Southern California
 - 📫 You can contact me via asal.mehradfar@yahoo.com or my academic mail mehradfa@usc.edu
